@@ -26,7 +26,7 @@ No API keys. No dependencies. Output: `jd_leads.json` —
 The company list (`companies.json`) comes from the MIT-licensed
 [ConorsCode/open-jobs-data](https://github.com/ConorsCode/open-jobs-data) dataset (378 companies, 9 ATS platforms).
 
-Last full run: 2,661 matching roles across 212 companies, 334 boards scanned.
+Last full run (2026-09-25): 2,662 matching roles across 214 companies, 338 boards scanned.
 
 ## Be polite
 
