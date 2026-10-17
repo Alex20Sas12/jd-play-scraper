@@ -28,6 +28,13 @@ The company list (`companies.json`) comes from the MIT-licensed
 
 Last full run (2026-09-25): 2,662 matching roles across 214 companies, 338 boards scanned.
 
+## Don't want to run it yourself?
+
+We turn any scan into a delivered lead list: 100 verified B2B records matched to
+your ICP, every row with source link + verification date, dead-row cash-back
+guarantee, 48h delivery, free 20-record sample first.
+Fixed price $299 → [100 Verified B2B Leads on Contra](https://contra.com/s/lQv3kvPg-100-verified-b2-b-leads-evidence-cash-back-48h).
+
 ## Be polite
 
 - 0.25s pause between boards, custom User-Agent, 12s timeout.
